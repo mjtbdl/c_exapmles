@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658585715 source:c:\users\mjtbd\desktop\c\input islemleri\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1660911898 source:c:\users\mjtbd\desktop\c\kontrol yapilari\yemek menusu\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1660911898 source:c:\users\mjtbd\desktop\c\if else builds\order menu\main.c
+	<stdio.h>
+	<stdlib.h>
+

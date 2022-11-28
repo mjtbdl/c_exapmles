@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1660664495 source:c:\users\mjtbd\desktop\c\kontrol yapilari\hesap makinesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1660664495 source:c:\users\mjtbd\desktop\c\if else builds\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
